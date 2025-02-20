@@ -165,13 +165,13 @@ enum class DiscordScreen(val text: StringResource, val details: StringResource, 
 }
 
 // Constants for standard Rich Presence image urls
-private const val animiruImageUrl = "emojis/1341038743179493396.webp?quality=lossless"
-private const val libraryImageUrl = "emojis/1341040294682165370.webp?quality=lossless"
-private const val updatesImageUrl = "emojis/1341041686133997608.webp?quality=lossless"
-private const val historyImageUrl = "emojis/1341042985542090782.webp?quality=lossless"
-private const val recentsImageUrl = "emojis/1341044060705787934.webp?quality=lossless"
-private const val browseImageUrl = "emojis/1341044901625991209.webp?quality=lossless"
-private const val moreImageUrl = "emojis/1341045995244621895.webp?quality=lossless"
-private const val webviewImageUrl = "emojis/1341046732749799465.webp?quality=lossless"
-private const val videoImageUrl = "emojis/1341047572063715328.webp?quality=lossless"
+private const val ANIMIRU_IMAGE_URL = "emojis/1341038743179493396.webp?quality=lossless"
+private const val LIBRARY_IMAGE_URL = "emojis/1341040294682165370.webp?quality=lossless"
+private const val UPDATES_IMAGE_URL = "emojis/1341041686133997608.webp?quality=lossless"
+private const val HISTORY_IMAGE_URL = "emojis/1341042985542090782.webp?quality=lossless"
+private const val RECENTS_IMAGE_URL = "emojis/1341044060705787934.webp?quality=lossless"
+private const val BROWSE_IMAGE_URL = "emojis/1341044901625991209.webp?quality=lossless"
+private const val MORE_IMAGE_URL = "emojis/1341045995244621895.webp?quality=lossless"
+private const val WEBVIEW_IMAGE_URL = "emojis/1341046732749799465.webp?quality=lossless"
+private const val VIDEO_IMAGE_URL = "emojis/1341047572063715328.webp?quality=lossless"
 // <-- AM (DISCORD_RPC)
